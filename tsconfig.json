@@ -1,0 +1,15 @@
+{
+  "compilerOptions": {
+    "module": "commonjs",
+    "target": "ES6",
+    "sourceMap": true,
+    "strict": true,
+    "esModuleInterop": true,
+    "jsx": "react",
+    "jsxFactory": "h",
+    "jsxFragmentFactory": "h",
+    "lib": ["es2019", "dom"]
+  },
+  "include": ["./src"],
+  "exclude": ["node_modules"]
+}

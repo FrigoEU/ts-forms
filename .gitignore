@@ -1,0 +1,13 @@
+/node_modules/
+/.log/
+/out/
+/src/**/*.js
+!/src/sip.js
+!/src/proto/aperi_device_v1.js
+/cordova-app/www/js/index.js
+/cordova-app/www/js/index.js.map
+/cordova-app/node_modules/
+/cordova-app/platforms/
+/cordova-app/plugins/
+/node-red-flows/node_modules/
+/node-red-flows/context/
